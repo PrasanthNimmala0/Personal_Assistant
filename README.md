@@ -62,33 +62,7 @@ run all cells that you want
 
 Gradio will provide a **shareable public link** in Colab output.
 
----
 
-## 📂 Project Structure
-
-```
-├── data/                # PDF knowledge base
-├── chroma_db/           # Vector database (auto-created)
-├── app.iypnb               # Main chatbot code
-└── README.md            # Project description
-```
-
----
-
-## 🔮 Future Improvements
-
-* Add support for Word/TXT/CSV file ingestion.
-* Deploy on HuggingFace Spaces or Streamlit Cloud.
-* Multi-user sessions with isolated knowledge bases.
-
----
-
-## 📸 Demo
-
-* **Chat Tab** → Ask questions from your PDFs + the web.
-* **Add Knowledge Tab** → Add your own text/notes to knowledge base.
-
-```
 
 ---
 
